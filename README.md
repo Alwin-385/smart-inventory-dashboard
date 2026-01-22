@@ -5,7 +5,7 @@ A simple full-stack inventory dashboard built using React and Node.js, focused o
 
 ## 🔗 Live Links
 
-- **Frontend:** https://smart-inventory-dashboard-2-qfn3.onrender.com 
+- **Frontend:** https://smart-inventory-dashboard-rho.vercel.app/ 
 - **Backend API:** https://smart-inventory-dashboard-jotj.onrender.com/products
 
 ---
